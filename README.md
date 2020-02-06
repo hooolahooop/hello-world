@@ -1,5 +1,4 @@
 # hello-world
-say hello
 
 Hi Mutants!
 
